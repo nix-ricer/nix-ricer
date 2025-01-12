@@ -12,10 +12,5 @@
 
     homeManagerModules.default = ./home self;
 
-    templates.example = {
-      path = ./example;
-      description = "Example flake.nix for building a nix-ricer swappable home-manager desktop module.";
-    };
-
   };
 }

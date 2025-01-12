@@ -1,4 +1,0 @@
-[submodule "example"]
-	path = example
-	url = https://github.com/nix-ricer/example-rice.git
-	branch = master
